@@ -1,0 +1,1 @@
+https://www.swiggy.com/dapi/restaurants/list/v5?lat=26.8467126&lng=80.9460872&collection=80382&tags=layout_CCS_CholeBhature&sortBy=&filters=&type=rcv2&offset=0&page_type=null
